@@ -1,7 +1,10 @@
 .vs/ 
+<<<<<<< HEAD
 .vs/
 First-repository/
 localrepo/
 .vs/
+=======
+>>>>>>> feature2
 First-repository/
 localrepo/
